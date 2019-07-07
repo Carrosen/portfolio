@@ -8,7 +8,10 @@ class Header extends Component {
       <>
         <ul>
           <li>
-            <Link to='/'>portfolio</Link>
+            <Link to='/'>Carla Rosén</Link>
+          </li>
+          <li>
+            <Link to='/portfolio'>portfolio</Link>
           </li>
           <li>
             <Link to='about'>About</Link>
